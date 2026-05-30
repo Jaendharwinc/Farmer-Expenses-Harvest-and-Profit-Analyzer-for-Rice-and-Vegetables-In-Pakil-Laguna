@@ -55,10 +55,6 @@ These files can be opened to Microsoft Excel or any spreadsheet application.
 This module closes the system and ends the program.
 
 
-LINKS:
-
-Interview: 
-https://drive.google.com/file/d/1aORpjMefG-R2sY5OLH_7RSlU5SkxcCyj/view?usp=drive_link
 
 
 
